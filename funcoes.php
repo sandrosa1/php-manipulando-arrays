@@ -2,7 +2,7 @@
 include __DIR__.'/nav.php';
 
 
-echo '<h1>Funções nativas PHP que retornam valores.</h1>';
+echo '<h1 class="text-center mt-3 mb-3">Funções nativas PHP que retornam valores.</h1>';
 
 
 $array1 = [
